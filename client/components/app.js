@@ -11,6 +11,7 @@ class App extends React.Component {
 			<div>
 				<h1>Chris Ritchie is so cool.com</h1>
 				<h1>NEWLINE</h1>
+				<h2>LINELINE</h2>
 				<Music />
 				<Code />
 			</div>
